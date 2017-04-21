@@ -1,0 +1,7 @@
+<mvc:View
+   controllerName="demo.controller.Home"
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc">
+   <Page title="Hello, World!">
+   </Page>
+</mvc:View>
